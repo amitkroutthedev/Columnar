@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src-tauri/icons/icon.png" alt="Columnar logo" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/amitkroutthedev/Columnar/refs/heads/main/src-tauri/icons/128x128.png" alt="Columnar logo" width="96" height="96" />
 
 # Columnar
 
