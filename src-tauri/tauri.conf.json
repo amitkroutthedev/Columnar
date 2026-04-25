@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "tauri-app-reader",
-  "version": "0.1.0",
-  "identifier": "com.dell.tauri-app-reader",
+  "productName": "Columnar",
+  "version": "0.0.1",
+  "identifier": "com.columnar.app",
   "build": {
     "frontendDist": "../src"
   },

@@ -54,7 +54,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tagName: ${{ github.ref_name }}
-          releaseName: 'GridLens ${{ github.ref_name }}'
+          releaseName: 'Columnar  ${{ github.ref_name }}'
           releaseBody: 'See the CHANGELOG for details.'
           releaseDraft: false
           prerelease: false

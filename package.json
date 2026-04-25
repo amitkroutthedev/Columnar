@@ -1,5 +1,6 @@
 {
-  "name": "tauri-app-reader",
+   "name": "columnar",
+  "productName": "Columnar",
   "private": true,
   "version": "0.1.0",
   "type": "module",

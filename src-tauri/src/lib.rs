@@ -694,7 +694,7 @@ pub fn run() {
             let r = recents_for_setup.read();
             attach_menu(&handle, &r);
 
-            println!("[gridlens] menu attached to {} window(s)", handle.webview_windows().len());
+            println!("[columnar] menu attached to {} window(s)", handle.webview_windows().len());
 
             Ok(())
         })

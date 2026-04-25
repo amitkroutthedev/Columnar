@@ -457,6 +457,25 @@ dependencies = [
 ]
 
 [[package]]
+name = "columnar"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "csv",
+ "dirs 5.0.1",
+ "memchr",
+ "memmap2",
+ "parking_lot",
+ "rayon",
+ "serde",
+ "serde_json",
+ "tauri",
+ "tauri-build",
+ "tauri-plugin-dialog",
+ "tauri-plugin-opener",
+]
+
+[[package]]
 name = "combine"
 version = "4.6.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -3793,25 +3812,6 @@ dependencies = [
  "webview2-com",
  "window-vibrancy",
  "windows",
-]
-
-[[package]]
-name = "tauri-app-reader"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "csv",
- "dirs 5.0.1",
- "memchr",
- "memmap2",
- "parking_lot",
- "rayon",
- "serde",
- "serde_json",
- "tauri",
- "tauri-build",
- "tauri-plugin-dialog",
- "tauri-plugin-opener",
 ]
 
 [[package]]
