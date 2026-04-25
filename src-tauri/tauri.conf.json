@@ -10,7 +10,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "tauri-app-reader",
+        "title": "Columnar",
         "width": 800,
         "height": 600
       }
